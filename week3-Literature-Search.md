@@ -20,10 +20,9 @@ I started with ***[gender bending]*** in UAL library, but got few related result
 
 <img width="2000" alt="WeChataa20fd479054263a5cd21fc5b4b227f3" src="https://git.arts.ac.uk/storage/user/583/files/2faa20f5-d4d8-46fb-90ca-ac6cf96d0201">
 
-
 Because this topic is also related to gender performativity, I also came across the terms ***[Butler gender performativity]*** and found some really helpful introductory books on her work.  
   
-<img width="2000" alt="WeChatd1d7c464f50abb0ce1b00718c28c8653" src="https://git.arts.ac.uk/storage/user/583/files/e4224db2-4598-46ea-8b4d-0b76b5e297f0">
+<img width="2710" alt="WeChatd1d7c464f50abb0ce1b00718c28c8653" src="https://user-images.githubusercontent.com/119874724/216016575-36c8b38a-57a5-42bb-bd95-b9aeaf0c5c50.png">
 
 Then I tried ***[Gender identyty games]*** in Google Scholar. However, I found that such search results did not quite match what I was looking for; they were very broad and many were about other issues. Perhaps gender identity is a bigger issue and there are many studies that mention it. This tells me that I need to narrow my search and make it more relevant.  
   
