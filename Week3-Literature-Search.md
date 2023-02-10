@@ -1,5 +1,5 @@
 # Week3: Literature Search
-I am crazy about games 🎮. In my years of gaming experience, I have noticed that gender bending is a popular activity in both offline and online games. Games allow players to construct and rehearse a range of identities. So in my essay, I want to explore the motivations behind this phenomenon.
+In my years of gaming experience, I have noticed that gender bending is a popular activity in both offline and online games. Games allow players to construct and rehearse a range of identities. So in my essay, I want to explore the motivations behind this phenomenon.
 
 I'm new to the subject, so I'd start by looking for some introductory books 🔍.
 
