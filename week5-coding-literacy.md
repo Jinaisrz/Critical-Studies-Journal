@@ -1,4 +1,4 @@
-# Week 4
+# Week 5
 > ## Before doing any text reading: Just simply take a moment to write/reflect about “What is literacy and what does it mean to call computer programming a literacy?” 
 
 ### What is literacy?
