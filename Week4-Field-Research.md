@@ -1,4 +1,4 @@
-# Week 4
+# Week 4: Field Research
 >## What impression does the exhibition give you? How do you feel?
 It is an exhibition filled with playful, curious and poetic objects that uncover the rich history of Surrealism and its fascinating influence on design.
 I marveled at these surprising and humorous objects in the exhibition.
