@@ -37,3 +37,10 @@ The analogy of coding as literacy can be an appropriate rhetorical framework. Co
 
 10. Make the codes more robust and stable, so that they can work better and are easier to maintain.
 
+The followings are some quote that inspired me most:  
+>Coding literacy is a form of power - a power to create, to invent, to shape, to change, and to transform.  
+
+>Coding literacy is not just a set of technical skills, but also a way of thinking and understanding the world.  
+
+>Live coding invites us to question and experiment with assumptions about computational practices and pedagogies, the situatedness of technology and its epistemological effects, and the politics of access and control in relation to code and culture.
+
