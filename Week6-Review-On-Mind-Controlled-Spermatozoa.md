@@ -8,8 +8,9 @@
 >6. Which skills does the artist have that distinguish them from other artists?
 >7. Does this piece inspire you? If so, how?
 >8. What can you take away from this piece of art? How has studying this piece (potentially) changed your creative practice?
->9. Give context about the Prize and include information from the interviews with the artist that can be found on the website.
-We hope that these questions will help you to engage with the art on a deeper level and to think about how it relates to the themes of the course.
+>9. Give context about the Prize and include information from the interviews with the artist that can be found on the website.  
+
+>We hope that these questions will help you to engage with the art on a deeper level and to think about how it relates to the themes of the course.
 
 "Mind Controlled Spermatozoa" by Anne Liu is a unique and thought-provoking piece of computational art that explores the intersection of technology and biology, challenging our traditional notions of control and power.
 
