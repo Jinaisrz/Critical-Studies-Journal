@@ -10,6 +10,7 @@
 >8. What can you take away from this piece of art? How has studying this piece (potentially) changed your creative practice?
 >9. Give context about the Prize and include information from the interviews with the artist that can be found on the website.
 We hope that these questions will help you to engage with the art on a deeper level and to think about how it relates to the themes of the course.
+
 "Mind Controlled Spermatozoa" by Anne Liu is a unique and thought-provoking piece of computational art that explores the intersection of technology and biology, challenging our traditional notions of control and power.
 
 In using technology to control the movement of sperm through a virtual environment, this artwork incorporates computational elements. The piece also incorporates biofeedback and neuroscience, as the movements of the sperm are influenced by the thoughts and emotions of the artist, which are detected by EEG sensors. Through the use of various technological tools, the artist creates a unique interactive experience that blurs the boundaries between human and non-human entities.
