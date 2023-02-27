@@ -8,34 +8,35 @@ Literacy is the ability to read, write, speak and listen. It helps us communicat
 - Writing includes transcription (spelling and handwriting) and composition (articulating and structuring ideas in speech before writing).
 
 ### What does it mean to call computer programming a literacy?
-The programmer's code is readable by a reader who understands the programming language.
-The code usually contains words that may be recognisable to English speakers: if, else, define, switch, end, for, and others.
-Programming languages are something that have real meanings in symbols that can be read and also executed, or run, by a computer.
-At the same time, programming is to some extent writing. People write a language with a specific syntax and logic to make the computer do what they want it to do.
-The analogy of coding as literacy can be an appropriate rhetorical framework. Computer programming becomes part of a set of communication skills that are important in everyday life, and literacy becomes more expansive as programming becomes more sophisticated.
+A reader who is familiar with the programming language can read the programmer's code.
+
+The code typically contains words like if, else, define, switch, end, for, and others that English speakers may be familiar with.Programming languages are things that can be read by computers and can also be executed, or run, by them.
+Programming is also somewhat similar to writing. To programme a machine to perform a desired action, people create a language with a predetermined grammar and logic.
+
+An effective rhetorical framework can be the comparison of coding to literacy. As programming becomes increasingly complex, it becomes a component of a set of communication skills that are crucial in everyday life, and literacy expands as a result.
   
 
 > ## After reading the assigned text: What are the new thoughts that come to you and help problematising the notion of coding literacy?  Which quotes or sentences inspire you to think more?
 
-1. Broaden the definition: Coding literacy is often seen as the ability to write code, but it's much more than that. Encourage others to see coding as the ability to understand, use and critically evaluate technology and how it affects society.
+1. Extend the definition: Writing code is just one aspect of coding literacy, but it encompasses much more. Persuade people that coding is the capacity to comprehend, utilise, and assess technology and how it affects society.
 
-2. Critical thinking: By asking questions about the purpose and potential consequences of coding, people can gain a deeper understanding of the subject.
+2. Critical thinking: People can get a deeper grasp of coding by posing inquiries about its goal and its outcomes.
 
-3. The ability to analyse complex structures: Decomposition involves the ability to dissect complex skeletons and the ability to reduce these skeletons to more manageable proportions.
+3. The capacity to analyse complicated structures: Decomposition requires the capacity to separate complex skeletons into smaller, more manageable pieces.
 
-4. Highly integrated code: Write highly integrated code in function libraries and then call them with interfaces. In this way, people who are working in other areas can also get up to speed with writing code in a short time. They don't need to understand the complex mechanics of how algorithms work, they just need to call the appropriate function when they want to use it. This also makes the code much cleaner and easier to read.
+4. Writing highly integrated code in function libraries and calling it through interfaces. Those who work in different fields can quickly become up to speed with writing code in this way. They only need to call the proper function when they wish to employ an algorithm; they don't need to comprehend the intricate mechanics of how it operates. The code is also lot cleaner and simpler to comprehend as a result.
 
-5. Develop better code specifications: Make the code more elegant and readable. This makes it easier for others to read the code and improves team collaboration.
+5. Improve code specifications: Write cleaner, easier-to-read code. This enhances team collaboration and makes it simpler for others to read the code.
 
-6. Interdisciplinary collaboration: Bringing together people from different backgrounds, such as computer science, education, sociology and ethics, can help problematise the notion of coding literacy. Together they can explore the different perspectives and societal implications of coding literacy.
+6. Collaboration between multiple academic disciplines, such as computer science, education, sociology, and ethics, might assist challenge the idea of coding literacy. Together, they may investigate the various viewpoints and societal effects of coding literacy.
 
-7. Examine the historical and cultural context: Through an understanding of the development of coding and its impact on society, people can have a more nuanced understanding of the subject.
+7. Research the historical and cultural background: By understanding how coding evolved and how it impacted society, people may have a more thorough understanding of the subject.
 
-8. Encourage diverse perspectives: People can explore the different ways in which coding can impact on society by bringing together people with different experiences and perspectives.
+8. Promote diverse viewpoints: By bringing together individuals with various backgrounds and viewpoints, people may discuss the various effects that coding may have on society.
 
-9. Be aware of the social and cultural context: The ability to code is not just a technical skill, but one that is also shaped by social and cultural factors. Encourage reflection on how technology and coding is affected by power dynamics and cultural values.
+9. Recognize the social and cultural context: Coding proficiency is not solely a technical competence; it is also influenced by social and cultural aspects. Stimulate thought about how cultural values and power structures affect technology and code.
 
-10. Make the codes more robust and stable, so that they can work better and are easier to maintain.
+10. Make the codes more reliable and stable so they can function better and require less upkeep.
 
 The followings are some quote that inspired me most:  
 >Coding literacy is a form of power - a power to create, to invent, to shape, to change, and to transform.  
